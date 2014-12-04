@@ -172,7 +172,7 @@ A People resource is an individual person or character within the Star Wars univ
         "gender": "Male",
         "hair_color": "Blond",
         "height": "172",
-        "homeworld": "https://swapi.co/api/planets/1/",
+        "planets": "https://swapi.co/api/planets/1/",
         "mass": "77",
         "name": "Luke Skywalker",
         "skin_color": "Fair",
@@ -210,7 +210,7 @@ A People resource is an individual person or character within the Star Wars univ
 -- The mass of the person in kilograms.
 - ```skin_color``` *string*
 -- The skin color of this person.
-- ```homeworld``` *string*
+- ```planets``` *string*
 -- The URL of a planet resource, a planet that this person was born on or inhabits.
 - ```films``` *array*
 -- An array of film resource URLs that this person has been in.
@@ -517,7 +517,7 @@ A Species resource is a type of person or character within the Star Wars Univers
         "edited": "2014-12-10T16:44:31.486000Z",
         "eye_colors": "blue, green, yellow, brown, golden, red",
         "hair_colors": "black, brown",
-        "homeworld": "https://swapi.co/api/planets/14/",
+        "planets": "https://swapi.co/api/planets/14/",
         "language": "Shyriiwook",
         "name": "Wookie",
         "people": [
@@ -551,7 +551,7 @@ A Species resource is a type of person or character within the Star Wars Univers
 -- A comma-separated string of common skin colors for this species, "none" if this species does not typically have skin.
 - ```language``` *string*
 -- The language commonly spoken by this species.
-- ```homeworld``` *string*
+- ```planets``` *string*
 -- The URL of a planet resource, a planet that this species originates from.
 - ```people``` *array*
 -- An array of People URL Resources that are a part of this species.

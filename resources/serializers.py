@@ -14,7 +14,7 @@ from .models import (
 
 class PeopleSerializer(serializers.HyperlinkedModelSerializer):
 
-    homeworld = serializers.HyperlinkedRelatedField(
+    planets = serializers.HyperlinkedRelatedField(
         read_only=True,
         view_name="planet-detail"
     )
@@ -30,7 +30,7 @@ class PeopleSerializer(serializers.HyperlinkedModelSerializer):
             "eye_color",
             "birth_year",
             "gender",
-            "homeworld",
+            "planets",
             "films",
             "species",
             "vehicles",
@@ -87,7 +87,7 @@ class FilmSerializer(serializers.HyperlinkedModelSerializer):
 
 class SpeciesSerializer(serializers.HyperlinkedModelSerializer):
 
-    homeworld = serializers.HyperlinkedRelatedField(
+    planets = serializers.HyperlinkedRelatedField(
         read_only=True,
         view_name='planet-detail'
     )
@@ -103,7 +103,7 @@ class SpeciesSerializer(serializers.HyperlinkedModelSerializer):
             "hair_colors",
             "eye_colors",
             "average_lifespan",
-            "homeworld",
+            "planets",
             "language",
             "people",
             "films",

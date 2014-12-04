@@ -69,7 +69,7 @@ class People(DateTimeModel):
 
     gender = models.CharField(max_length=40, blank=True)
 
-    homeworld = models.ForeignKey(Planet, related_name="people")
+    planets = models.ForeignKey(Planet, related_name="people")
 
 
 class Transport(DateTimeModel):
@@ -148,7 +148,7 @@ class Species(DateTimeModel):
 
     average_lifespan = models.CharField(max_length=40)
 
-    homeworld = models.ForeignKey(Planet, blank=True, null=True)
+    planets = models.ForeignKey(Planet, blank=True, null=True)
 
     language = models.CharField(max_length=40)
 

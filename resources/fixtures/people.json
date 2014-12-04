@@ -10,7 +10,7 @@
         "height": "172",
         "eye_color": "blue",
         "mass": "77",
-        "homeworld": 1,
+        "planets": 1,
         "birth_year": "19BBY"
     },
     "model": "resources.people",
@@ -27,7 +27,7 @@
         "height": "167",
         "eye_color": "yellow",
         "mass": "75",
-        "homeworld": 1,
+        "planets": 1,
         "birth_year": "112BBY"
     },
     "model": "resources.people",
@@ -44,7 +44,7 @@
         "height": "96",
         "eye_color": "red",
         "mass": "32",
-        "homeworld": 8,
+        "planets": 8,
         "birth_year": "33BBY"
     },
     "model": "resources.people",
@@ -61,7 +61,7 @@
         "height": "202",
         "eye_color": "yellow",
         "mass": "136",
-        "homeworld": 1,
+        "planets": 1,
         "birth_year": "41.9BBY"
     },
     "model": "resources.people",
@@ -78,7 +78,7 @@
         "height": "150",
         "eye_color": "brown",
         "mass": "49",
-        "homeworld": 2,
+        "planets": 2,
         "birth_year": "19BBY"
     },
     "model": "resources.people",
@@ -95,7 +95,7 @@
         "height": "178",
         "eye_color": "blue",
         "mass": "120",
-        "homeworld": 1,
+        "planets": 1,
         "birth_year": "52BBY"
     },
     "model": "resources.people",
@@ -112,7 +112,7 @@
         "height": "165",
         "eye_color": "blue",
         "mass": "75",
-        "homeworld": 1,
+        "planets": 1,
         "birth_year": "47BBY"
     },
     "model": "resources.people",
@@ -129,7 +129,7 @@
         "height": "97",
         "eye_color": "red",
         "mass": "32",
-        "homeworld": 1,
+        "planets": 1,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -146,7 +146,7 @@
         "height": "183",
         "eye_color": "brown",
         "mass": "84",
-        "homeworld": 1,
+        "planets": 1,
         "birth_year": "24BBY"
     },
     "model": "resources.people",
@@ -163,7 +163,7 @@
         "height": "182",
         "eye_color": "blue-gray",
         "mass": "77",
-        "homeworld": 20,
+        "planets": 20,
         "birth_year": "57BBY"
     },
     "model": "resources.people",
@@ -180,7 +180,7 @@
         "height": "188",
         "eye_color": "blue",
         "mass": "84",
-        "homeworld": 1,
+        "planets": 1,
         "birth_year": "41.9BBY"
     },
     "model": "resources.people",
@@ -197,7 +197,7 @@
         "height": "180",
         "eye_color": "blue",
         "mass": "unknown",
-        "homeworld": 21,
+        "planets": 21,
         "birth_year": "64BBY"
     },
     "model": "resources.people",
@@ -214,7 +214,7 @@
         "height": "228",
         "eye_color": "blue",
         "mass": "112",
-        "homeworld": 14,
+        "planets": 14,
         "birth_year": "200BBY"
     },
     "model": "resources.people",
@@ -231,7 +231,7 @@
         "height": "180",
         "eye_color": "brown",
         "mass": "80",
-        "homeworld": 22,
+        "planets": 22,
         "birth_year": "29BBY"
     },
     "model": "resources.people",
@@ -248,7 +248,7 @@
         "height": "173",
         "eye_color": "black",
         "mass": "74",
-        "homeworld": 23,
+        "planets": 23,
         "birth_year": "44BBY"
     },
     "model": "resources.people",
@@ -265,7 +265,7 @@
         "height": "175",
         "eye_color": "orange",
         "mass": "1,358",
-        "homeworld": 24,
+        "planets": 24,
         "birth_year": "600BBY"
     },
     "model": "resources.people",
@@ -282,7 +282,7 @@
         "height": "170",
         "eye_color": "hazel",
         "mass": "77",
-        "homeworld": 22,
+        "planets": 22,
         "birth_year": "21BBY"
     },
     "model": "resources.people",
@@ -299,7 +299,7 @@
         "height": "180",
         "eye_color": "blue",
         "mass": "110",
-        "homeworld": 26,
+        "planets": 26,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -316,7 +316,7 @@
         "height": "66",
         "eye_color": "brown",
         "mass": "17",
-        "homeworld": 28,
+        "planets": 28,
         "birth_year": "896BBY"
     },
     "model": "resources.people",
@@ -333,7 +333,7 @@
         "height": "170",
         "eye_color": "yellow",
         "mass": "75",
-        "homeworld": 8,
+        "planets": 8,
         "birth_year": "82BBY"
     },
     "model": "resources.people",
@@ -350,7 +350,7 @@
         "height": "183",
         "eye_color": "brown",
         "mass": "78.2",
-        "homeworld": 10,
+        "planets": 10,
         "birth_year": "31.5BBY"
     },
     "model": "resources.people",
@@ -367,7 +367,7 @@
         "height": "200",
         "eye_color": "red",
         "mass": "140",
-        "homeworld": 28,
+        "planets": 28,
         "birth_year": "15BBY"
     },
     "model": "resources.people",
@@ -384,7 +384,7 @@
         "height": "190",
         "eye_color": "red",
         "mass": "113",
-        "homeworld": 29,
+        "planets": 29,
         "birth_year": "53BBY"
     },
     "model": "resources.people",
@@ -401,7 +401,7 @@
         "height": "177",
         "eye_color": "brown",
         "mass": "79",
-        "homeworld": 30,
+        "planets": 30,
         "birth_year": "31BBY"
     },
     "model": "resources.people",
@@ -418,7 +418,7 @@
         "height": "175",
         "eye_color": "blue",
         "mass": "79",
-        "homeworld": 6,
+        "planets": 6,
         "birth_year": "37BBY"
     },
     "model": "resources.people",
@@ -435,7 +435,7 @@
         "height": "180",
         "eye_color": "orange",
         "mass": "83",
-        "homeworld": 31,
+        "planets": 31,
         "birth_year": "41BBY"
     },
     "model": "resources.people",
@@ -452,7 +452,7 @@
         "height": "150",
         "eye_color": "blue",
         "mass": "unknown",
-        "homeworld": 32,
+        "planets": 32,
         "birth_year": "48BBY"
     },
     "model": "resources.people",
@@ -469,7 +469,7 @@
         "height": "unknown",
         "eye_color": "brown",
         "mass": "unknown",
-        "homeworld": 28,
+        "planets": 28,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -486,7 +486,7 @@
         "height": "88",
         "eye_color": "brown",
         "mass": "20",
-        "homeworld": 7,
+        "planets": 7,
         "birth_year": "8BBY"
     },
     "model": "resources.people",
@@ -503,7 +503,7 @@
         "height": "160",
         "eye_color": "black",
         "mass": "68",
-        "homeworld": 33,
+        "planets": 33,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -520,7 +520,7 @@
         "height": "193",
         "eye_color": "blue",
         "mass": "89",
-        "homeworld": 28,
+        "planets": 28,
         "birth_year": "92BBY"
     },
     "model": "resources.people",
@@ -537,7 +537,7 @@
         "height": "191",
         "eye_color": "red",
         "mass": "90",
-        "homeworld": 18,
+        "planets": 18,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -554,7 +554,7 @@
         "height": "170",
         "eye_color": "blue",
         "mass": "unknown",
-        "homeworld": 9,
+        "planets": 9,
         "birth_year": "91BBY"
     },
     "model": "resources.people",
@@ -571,7 +571,7 @@
         "height": "185",
         "eye_color": "brown",
         "mass": "45",
-        "homeworld": 8,
+        "planets": 8,
         "birth_year": "46BBY"
     },
     "model": "resources.people",
@@ -588,7 +588,7 @@
         "height": "196",
         "eye_color": "orange",
         "mass": "66",
-        "homeworld": 8,
+        "planets": 8,
         "birth_year": "52BBY"
     },
     "model": "resources.people",
@@ -605,7 +605,7 @@
         "height": "224",
         "eye_color": "orange",
         "mass": "82",
-        "homeworld": 8,
+        "planets": 8,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -622,7 +622,7 @@
         "height": "206",
         "eye_color": "orange",
         "mass": "unknown",
-        "homeworld": 8,
+        "planets": 8,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -639,7 +639,7 @@
         "height": "183",
         "eye_color": "blue",
         "mass": "unknown",
-        "homeworld": 8,
+        "planets": 8,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -656,7 +656,7 @@
         "height": "137",
         "eye_color": "yellow",
         "mass": "unknown",
-        "homeworld": 34,
+        "planets": 34,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -673,7 +673,7 @@
         "height": "112",
         "eye_color": "orange",
         "mass": "40",
-        "homeworld": 35,
+        "planets": 35,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -690,7 +690,7 @@
         "height": "183",
         "eye_color": "brown",
         "mass": "unknown",
-        "homeworld": 8,
+        "planets": 8,
         "birth_year": "62BBY"
     },
     "model": "resources.people",
@@ -707,7 +707,7 @@
         "height": "163",
         "eye_color": "brown",
         "mass": "unknown",
-        "homeworld": 1,
+        "planets": 1,
         "birth_year": "72BBY"
     },
     "model": "resources.people",
@@ -724,7 +724,7 @@
         "height": "175",
         "eye_color": "yellow",
         "mass": "80",
-        "homeworld": 36,
+        "planets": 36,
         "birth_year": "54BBY"
     },
     "model": "resources.people",
@@ -741,7 +741,7 @@
         "height": "180",
         "eye_color": "pink",
         "mass": "unknown",
-        "homeworld": 37,
+        "planets": 37,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -758,7 +758,7 @@
         "height": "178",
         "eye_color": "hazel",
         "mass": "55",
-        "homeworld": 37,
+        "planets": 37,
         "birth_year": "48BBY"
     },
     "model": "resources.people",
@@ -775,7 +775,7 @@
         "height": "79",
         "eye_color": "unknown",
         "mass": "15",
-        "homeworld": 38,
+        "planets": 38,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -792,7 +792,7 @@
         "height": "94",
         "eye_color": "yellow",
         "mass": "45",
-        "homeworld": 39,
+        "planets": 39,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -809,7 +809,7 @@
         "height": "122",
         "eye_color": "black",
         "mass": "unknown",
-        "homeworld": 40,
+        "planets": 40,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -826,7 +826,7 @@
         "height": "163",
         "eye_color": "orange",
         "mass": "65",
-        "homeworld": 41,
+        "planets": 41,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -843,7 +843,7 @@
         "height": "188",
         "eye_color": "brown",
         "mass": "84",
-        "homeworld": 42,
+        "planets": 42,
         "birth_year": "72BBY"
     },
     "model": "resources.people",
@@ -860,7 +860,7 @@
         "height": "198",
         "eye_color": "yellow",
         "mass": "82",
-        "homeworld": 43,
+        "planets": 43,
         "birth_year": "92BBY"
     },
     "model": "resources.people",
@@ -877,7 +877,7 @@
         "height": "196",
         "eye_color": "black",
         "mass": "87",
-        "homeworld": 44,
+        "planets": 44,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -894,7 +894,7 @@
         "height": "171",
         "eye_color": "brown",
         "mass": "unknown",
-        "homeworld": 45,
+        "planets": 45,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -911,7 +911,7 @@
         "height": "184",
         "eye_color": "blue",
         "mass": "50",
-        "homeworld": 9,
+        "planets": 9,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -928,7 +928,7 @@
         "height": "188",
         "eye_color": "orange",
         "mass": "unknown",
-        "homeworld": 47,
+        "planets": 47,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -945,7 +945,7 @@
         "height": "264",
         "eye_color": "yellow",
         "mass": "unknown",
-        "homeworld": 48,
+        "planets": 48,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -962,7 +962,7 @@
         "height": "188",
         "eye_color": "black",
         "mass": "80",
-        "homeworld": 49,
+        "planets": 49,
         "birth_year": "22BBY"
     },
     "model": "resources.people",
@@ -979,7 +979,7 @@
         "height": "196",
         "eye_color": "blue",
         "mass": "unknown",
-        "homeworld": 50,
+        "planets": 50,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -996,7 +996,7 @@
         "height": "185",
         "eye_color": "brown",
         "mass": "85",
-        "homeworld": 8,
+        "planets": 8,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -1013,7 +1013,7 @@
         "height": "157",
         "eye_color": "brown",
         "mass": "unknown",
-        "homeworld": 8,
+        "planets": 8,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -1030,7 +1030,7 @@
         "height": "183",
         "eye_color": "blue",
         "mass": "unknown",
-        "homeworld": 1,
+        "planets": 1,
         "birth_year": "82BBY"
     },
     "model": "resources.people",
@@ -1047,7 +1047,7 @@
         "height": "183",
         "eye_color": "yellow",
         "mass": "80",
-        "homeworld": 11,
+        "planets": 11,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -1064,7 +1064,7 @@
         "height": "170",
         "eye_color": "blue",
         "mass": "56.2",
-        "homeworld": 51,
+        "planets": 51,
         "birth_year": "58BBY"
     },
     "model": "resources.people",
@@ -1081,7 +1081,7 @@
         "height": "166",
         "eye_color": "blue",
         "mass": "50",
-        "homeworld": 51,
+        "planets": 51,
         "birth_year": "40BBY"
     },
     "model": "resources.people",
@@ -1098,7 +1098,7 @@
         "height": "165",
         "eye_color": "brown",
         "mass": "unknown",
-        "homeworld": 8,
+        "planets": 8,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -1115,7 +1115,7 @@
         "height": "193",
         "eye_color": "brown",
         "mass": "80",
-        "homeworld": 52,
+        "planets": 52,
         "birth_year": "102BBY"
     },
     "model": "resources.people",
@@ -1132,7 +1132,7 @@
         "height": "191",
         "eye_color": "brown",
         "mass": "unknown",
-        "homeworld": 2,
+        "planets": 2,
         "birth_year": "67BBY"
     },
     "model": "resources.people",
@@ -1149,7 +1149,7 @@
         "height": "183",
         "eye_color": "brown",
         "mass": "79",
-        "homeworld": 53,
+        "planets": 53,
         "birth_year": "66BBY"
     },
     "model": "resources.people",
@@ -1166,7 +1166,7 @@
         "height": "168",
         "eye_color": "yellow",
         "mass": "55",
-        "homeworld": 54,
+        "planets": 54,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -1183,7 +1183,7 @@
         "height": "198",
         "eye_color": "yellow",
         "mass": "102",
-        "homeworld": 55,
+        "planets": 55,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -1200,7 +1200,7 @@
         "height": "229",
         "eye_color": "black",
         "mass": "88",
-        "homeworld": 10,
+        "planets": 10,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -1217,7 +1217,7 @@
         "height": "213",
         "eye_color": "black",
         "mass": "unknown",
-        "homeworld": 10,
+        "planets": 10,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -1234,7 +1234,7 @@
         "height": "167",
         "eye_color": "blue",
         "mass": "unknown",
-        "homeworld": 9,
+        "planets": 9,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -1251,7 +1251,7 @@
         "height": "96",
         "eye_color": "red, blue",
         "mass": "unknown",
-        "homeworld": 28,
+        "planets": 28,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -1268,7 +1268,7 @@
         "height": "193",
         "eye_color": "unknown",
         "mass": "48",
-        "homeworld": 56,
+        "planets": 56,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -1285,7 +1285,7 @@
         "height": "191",
         "eye_color": "gold",
         "mass": "unknown",
-        "homeworld": 57,
+        "planets": 57,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -1302,7 +1302,7 @@
         "height": "178",
         "eye_color": "black",
         "mass": "57",
-        "homeworld": 58,
+        "planets": 58,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -1319,7 +1319,7 @@
         "height": "216",
         "eye_color": "green, yellow",
         "mass": "159",
-        "homeworld": 59,
+        "planets": 59,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -1336,7 +1336,7 @@
         "height": "234",
         "eye_color": "blue",
         "mass": "136",
-        "homeworld": 14,
+        "planets": 14,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -1353,7 +1353,7 @@
         "height": "188",
         "eye_color": "brown",
         "mass": "79",
-        "homeworld": 2,
+        "planets": 2,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -1370,7 +1370,7 @@
         "height": "178",
         "eye_color": "white",
         "mass": "48",
-        "homeworld": 60,
+        "planets": 60,
         "birth_year": "unknown"
     },
     "model": "resources.people",
@@ -1387,7 +1387,7 @@
         "height": "206",
         "eye_color": "black",
         "mass": "80",
-        "homeworld": 12,
+        "planets": 12,
         "birth_year": "unknown"
     },
     "model": "resources.people",

@@ -36,7 +36,7 @@
       "type": "string",
       "description": "The gender of this person (if known)."
     },
-    "homeworld": {
+    "planets": {
       "type": "string",
       "description": "The url of the planet resource that this person was born on."
     },
@@ -81,7 +81,7 @@
     "eye_color",
     "birth_year",
     "gender",
-    "homeworld",
+    "planets",
     "films",
     "species",
     "vehicles",

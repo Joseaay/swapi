@@ -16,7 +16,7 @@
         "skin_colors": "caucasian, black, asian, hispanic",
         "language": "Galactic Basic",
         "hair_colors": "blonde, brown, black, red",
-        "homeworld": 9,
+        "planets": 9,
         "average_lifespan": "120",
         "average_height": "180"
     },
@@ -40,7 +40,7 @@
         "skin_colors": "n/a",
         "language": "n/a",
         "hair_colors": "n/a",
-        "homeworld": null,
+        "planets": null,
         "average_lifespan": "indefinite",
         "average_height": "n/a"
     },
@@ -62,7 +62,7 @@
         "skin_colors": "gray",
         "language": "Shyriiwook",
         "hair_colors": "black, brown",
-        "homeworld": 14,
+        "planets": 14,
         "average_lifespan": "400",
         "average_height": "210"
     },
@@ -83,7 +83,7 @@
         "skin_colors": "green, blue",
         "language": "Galatic Basic",
         "hair_colors": "n/a",
-        "homeworld": 23,
+        "planets": 23,
         "average_lifespan": "unknown",
         "average_height": "170"
     },
@@ -104,7 +104,7 @@
         "skin_colors": "green, brown, tan",
         "language": "Huttese",
         "hair_colors": "n/a",
-        "homeworld": 24,
+        "planets": 24,
         "average_lifespan": "1000",
         "average_height": "300"
     },
@@ -125,7 +125,7 @@
         "skin_colors": "green, yellow",
         "language": "Galactic basic",
         "hair_colors": "brown, white",
-        "homeworld": 28,
+        "planets": 28,
         "average_lifespan": "900",
         "average_height": "66"
     },
@@ -146,7 +146,7 @@
         "skin_colors": "brown, green",
         "language": "Dosh",
         "hair_colors": "none",
-        "homeworld": 29,
+        "planets": 29,
         "average_lifespan": "unknown",
         "average_height": "200"
     },
@@ -167,7 +167,7 @@
         "skin_colors": "red, blue, brown, magenta",
         "language": "Mon Calamarian",
         "hair_colors": "none",
-        "homeworld": 31,
+        "planets": 31,
         "average_lifespan": "unknown",
         "average_height": "160"
     },
@@ -188,7 +188,7 @@
         "skin_colors": "brown",
         "language": "Ewokese",
         "hair_colors": "white, brown, black",
-        "homeworld": 7,
+        "planets": 7,
         "average_lifespan": "unknown",
         "average_height": "100"
     },
@@ -209,7 +209,7 @@
         "skin_colors": "pale",
         "language": "Sullutese",
         "hair_colors": "none",
-        "homeworld": 33,
+        "planets": 33,
         "average_lifespan": "unknown",
         "average_height": "180"
     },
@@ -230,7 +230,7 @@
         "skin_colors": "grey, green",
         "language": "Neimoidia",
         "hair_colors": "none",
-        "homeworld": 18,
+        "planets": 18,
         "average_lifespan": "unknown",
         "average_height": "180"
     },
@@ -253,7 +253,7 @@
         "skin_colors": "brown, green",
         "language": "Gungan basic",
         "hair_colors": "none",
-        "homeworld": 8,
+        "planets": 8,
         "average_lifespan": "unknown",
         "average_height": "190"
     },
@@ -274,7 +274,7 @@
         "skin_colors": "blue, green, grey",
         "language": "Toydarian",
         "hair_colors": "none",
-        "homeworld": 34,
+        "planets": 34,
         "average_lifespan": "91",
         "average_height": "120"
     },
@@ -295,7 +295,7 @@
         "skin_colors": "brown, purple, grey, red",
         "language": "Dugese",
         "hair_colors": "none",
-        "homeworld": 35,
+        "planets": 35,
         "average_lifespan": "unknown",
         "average_height": "100"
     },
@@ -317,7 +317,7 @@
         "skin_colors": "orange, yellow, blue, green, pink, purple, tan",
         "language": "Twi'leki",
         "hair_colors": "none",
-        "homeworld": 37,
+        "planets": 37,
         "average_lifespan": "unknown",
         "average_height": "200"
     },
@@ -338,7 +338,7 @@
         "skin_colors": "blue, gray",
         "language": "Aleena",
         "hair_colors": "none",
-        "homeworld": 38,
+        "planets": 38,
         "average_lifespan": "79",
         "average_height": "80"
     },
@@ -359,7 +359,7 @@
         "skin_colors": "grey",
         "language": "vulpterish",
         "hair_colors": "none",
-        "homeworld": 39,
+        "planets": 39,
         "average_lifespan": "unknown",
         "average_height": "100"
     },
@@ -380,7 +380,7 @@
         "skin_colors": "grey, yellow, purple",
         "language": "Xextese",
         "hair_colors": "none",
-        "homeworld": 40,
+        "planets": 40,
         "average_lifespan": "unknown",
         "average_height": "125"
     },
@@ -401,7 +401,7 @@
         "skin_colors": "grey, green, yellow",
         "language": "Tundan",
         "hair_colors": "none",
-        "homeworld": 41,
+        "planets": 41,
         "average_lifespan": "unknown",
         "average_height": "200"
     },
@@ -422,7 +422,7 @@
         "skin_colors": "pale pink",
         "language": "Cerean",
         "hair_colors": "red, blond, black, white",
-        "homeworld": 43,
+        "planets": 43,
         "average_lifespan": "unknown",
         "average_height": "200"
     },
@@ -443,7 +443,7 @@
         "skin_colors": "green, blue, brown, red",
         "language": "Nautila",
         "hair_colors": "none",
-        "homeworld": 44,
+        "planets": 44,
         "average_lifespan": "70",
         "average_height": "180"
     },
@@ -465,7 +465,7 @@
         "skin_colors": "pale, brown, red, orange, yellow",
         "language": "Zabraki",
         "hair_colors": "black",
-        "homeworld": 45,
+        "planets": 45,
         "average_lifespan": "unknown",
         "average_height": "180"
     },
@@ -486,7 +486,7 @@
         "skin_colors": "dark",
         "language": "unknown",
         "hair_colors": "unknown",
-        "homeworld": 46,
+        "planets": 46,
         "average_lifespan": "unknown",
         "average_height": "unknown"
     },
@@ -507,7 +507,7 @@
         "skin_colors": "pink",
         "language": "Iktotchese",
         "hair_colors": "none",
-        "homeworld": 47,
+        "planets": 47,
         "average_lifespan": "unknown",
         "average_height": "180"
     },
@@ -528,7 +528,7 @@
         "skin_colors": "white",
         "language": "Quermian",
         "hair_colors": "none",
-        "homeworld": 48,
+        "planets": 48,
         "average_lifespan": "86",
         "average_height": "240"
     },
@@ -549,7 +549,7 @@
         "skin_colors": "peach, orange, red",
         "language": "Kel Dor",
         "hair_colors": "none",
-        "homeworld": 49,
+        "planets": 49,
         "average_lifespan": "70",
         "average_height": "180"
     },
@@ -570,7 +570,7 @@
         "skin_colors": "blue",
         "language": "Chagria",
         "hair_colors": "none",
-        "homeworld": 50,
+        "planets": 50,
         "average_lifespan": "unknown",
         "average_height": "190"
     },
@@ -591,7 +591,7 @@
         "skin_colors": "green, brown",
         "language": "Geonosian",
         "hair_colors": "none",
-        "homeworld": 11,
+        "planets": 11,
         "average_lifespan": "unknown",
         "average_height": "178"
     },
@@ -613,7 +613,7 @@
         "skin_colors": "yellow, green",
         "language": "Mirialan",
         "hair_colors": "black, brown",
-        "homeworld": 51,
+        "planets": 51,
         "average_lifespan": "unknown",
         "average_height": "180"
     },
@@ -634,7 +634,7 @@
         "skin_colors": "green, yellow",
         "language": "Clawdite",
         "hair_colors": "none",
-        "homeworld": 54,
+        "planets": 54,
         "average_lifespan": "70",
         "average_height": "180"
     },
@@ -655,7 +655,7 @@
         "skin_colors": "brown",
         "language": "besalisk",
         "hair_colors": "none",
-        "homeworld": 55,
+        "planets": 55,
         "average_lifespan": "75",
         "average_height": "178"
     },
@@ -677,7 +677,7 @@
         "skin_colors": "grey, blue",
         "language": "Kaminoan",
         "hair_colors": "none",
-        "homeworld": 10,
+        "planets": 10,
         "average_lifespan": "80",
         "average_height": "220"
     },
@@ -698,7 +698,7 @@
         "skin_colors": "grey, green",
         "language": "Skakoan",
         "hair_colors": "none",
-        "homeworld": 56,
+        "planets": 56,
         "average_lifespan": "unknown",
         "average_height": "unknown"
     },
@@ -719,7 +719,7 @@
         "skin_colors": "grey, white",
         "language": "Muun",
         "hair_colors": "none",
-        "homeworld": 57,
+        "planets": 57,
         "average_lifespan": "100",
         "average_height": "190"
     },
@@ -740,7 +740,7 @@
         "skin_colors": "red, white, orange, yellow, green, blue",
         "language": "Togruti",
         "hair_colors": "none",
-        "homeworld": 58,
+        "planets": 58,
         "average_lifespan": "94",
         "average_height": "180"
     },
@@ -761,7 +761,7 @@
         "skin_colors": "brown, orange, tan",
         "language": "Kaleesh",
         "hair_colors": "none",
-        "homeworld": 59,
+        "planets": 59,
         "average_lifespan": "80",
         "average_height": "170"
     },
@@ -782,7 +782,7 @@
         "skin_colors": "grey",
         "language": "Utapese",
         "hair_colors": "none",
-        "homeworld": 12,
+        "planets": 12,
         "average_lifespan": "700",
         "average_height": "190"
     },

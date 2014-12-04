@@ -36,7 +36,7 @@
       "type": "string",
       "description": "A comma-seperated string of common eye colors for this species, none if this species does not typically have eyes."
     },
-    "homeworld": {
+    "planets": {
       "type": "string",
       "description": "The URL of a planet resource, a planet that this species originates from."
     },
@@ -77,7 +77,7 @@
     "hair_colors",
     "skin_colors",
     "eye_colors",
-    "homeworld",
+    "planets",
     "language",
     "people",
     "films",
