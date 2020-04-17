@@ -29,7 +29,7 @@
       "format": "date",
       "description": "The release date at original creator country."
     },
-    "characters": {
+    "people": {
       "type": "array",
       "description": "The people resources featured within this film."
     },
@@ -72,7 +72,7 @@
     "director",
     "producer",
     "release_date",
-    "characters",
+    "people",
     "planets",
     "starships",
     "vehicles",

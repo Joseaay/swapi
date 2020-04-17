@@ -173,7 +173,7 @@ class Film(DateTimeModel):
 
     release_date = models.DateField()
 
-    characters = models.ManyToManyField(
+    people = models.ManyToManyField(
         People,
         related_name="films",
         blank=True

@@ -74,7 +74,7 @@ class FilmSerializer(serializers.HyperlinkedModelSerializer):
             "director",
             "producer",
 	    "release_date",
-            "characters",
+            "people",
             "planets",
             "starships",
             "vehicles",

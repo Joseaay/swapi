@@ -252,7 +252,7 @@ A Film resource is a single film.
     HTTP/1.0 200 OK
     Content-Type: application/json
     {
-        "characters": [
+        "people": [
             "https://swapi.co/api/people/1/",
             ...
         ],
@@ -303,7 +303,7 @@ A Film resource is a single film.
 -- An array of starship resource URLs that are in this film.
 - ```vehicles``` *array*
 -- An array of vehicle resource URLs that are in this film.
-- ```characters``` *array*
+- ```people``` *array*
 -- An array of people resource URLs that are in this film.
 - ```planets``` *array*
 -- An array of planet resource URLs that are in this film.

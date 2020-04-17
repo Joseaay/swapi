@@ -32,7 +32,7 @@ Comparing the data from Star Wars has never been easier. Here are some examples 
     import swapi
     pm = swapi.get_film(4)
     jj = swapi.get_person(36)
-    for c in pm.get_characters().iter():
+    for c in pm.get_people().iter():
         if c.name == jj.name:
             print("Why George, why.")
 
