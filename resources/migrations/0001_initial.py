@@ -146,7 +146,7 @@ class Migration(migrations.Migration):
         migrations.AddField(
             model_name='people',
             name='homeworld',
-            field=models.ForeignKey(related_name='residents', to='resources.Planet'),
+            field=models.ForeignKey(related_name='people', to='resources.Planet'),
             preserve_default=True,
         ),
         migrations.AddField(

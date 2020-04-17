@@ -55,7 +55,7 @@ class PlanetSerializer(serializers.HyperlinkedModelSerializer):
             "terrain",
             "surface_water",
             "population",
-            "residents",
+            "people",
             "films",
             "created",
             "edited",

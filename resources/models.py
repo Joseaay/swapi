@@ -69,7 +69,7 @@ class People(DateTimeModel):
 
     gender = models.CharField(max_length=40, blank=True)
 
-    homeworld = models.ForeignKey(Planet, related_name="residents")
+    homeworld = models.ForeignKey(Planet, related_name="people")
 
 
 class Transport(DateTimeModel):

@@ -30,7 +30,7 @@ Here is the response we get:
         "name": "Tatooine",
         "orbital_period": "304",
         "population": "200000",
-        "residents": [
+        "people": [
             "https://swapi.co/api/people/1/",
             "https://swapi.co/api/people/2/",
             ...
@@ -602,7 +602,7 @@ A Planet resource is a large mass, planet or planetoid in the Star Wars Universe
         "name": "Tatooine",
         "orbital_period": "304",
         "population": "120000",
-        "residents": [
+        "people": [
             "https://swapi.co/api/people/1/",
             ...
         ],
@@ -632,7 +632,7 @@ A Planet resource is a large mass, planet or planetoid in the Star Wars Universe
 -- The terrain of this planet. Comma separated if diverse.
 - ```surface_water``` *string*
 -- The percentage of the planet surface that is naturally occurring water or bodies of water.
-- ```residents``` *array*
+- ```people``` *array*
 -- An array of People URL Resources that live on this planet.
 - ```films``` *array*
 -- An array of Film URL Resources that this planet has appeared in.
