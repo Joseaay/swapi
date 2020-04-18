@@ -52,7 +52,7 @@
       "type": "array",
       "description": "An array of Film URL Resources that this vehicle has appeared in."
     },
-    "pilots": {
+    "people": {
       "type": "array",
       "description": "An array of People URL Resources that this vehicle has been piloted by."
     },
@@ -84,7 +84,7 @@
     "cargo_capacity",
     "consumables",
     "vehicle_class",
-    "pilots",
+    "people",
     "films",
     "created",
     "edited",

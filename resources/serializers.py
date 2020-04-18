@@ -115,7 +115,7 @@ class SpeciesSerializer(serializers.HyperlinkedModelSerializer):
 
 class VehicleSerializer(serializers.HyperlinkedModelSerializer):
 
-    pilots = serializers.HyperlinkedRelatedField(
+    people = serializers.HyperlinkedRelatedField(
         many=True,
         read_only=True,
         view_name='people-detail'
@@ -135,7 +135,7 @@ class VehicleSerializer(serializers.HyperlinkedModelSerializer):
             "cargo_capacity",
             "consumables",
             "vehicle_class",
-            "pilots",
+            "people",
             "films",
             "created",
             "edited",
@@ -145,7 +145,7 @@ class VehicleSerializer(serializers.HyperlinkedModelSerializer):
 
 class StarshipSerializer(serializers.HyperlinkedModelSerializer):
 
-    pilots = serializers.HyperlinkedRelatedField(
+    people = serializers.HyperlinkedRelatedField(
         many=True,
         read_only=True,
         view_name="people-detail"
@@ -167,7 +167,7 @@ class StarshipSerializer(serializers.HyperlinkedModelSerializer):
             "hyperdrive_rating",
             "MGLT",
             "starship_class",
-            "pilots",
+            "people",
             "films",
             "created",
             "edited",

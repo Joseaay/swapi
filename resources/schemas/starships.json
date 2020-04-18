@@ -60,7 +60,7 @@
       "type": "array",
       "description": "An array of Film URL Resources that this starship has appeared in."
     },
-    "pilots": {
+    "people": {
       "type": "array",
       "description": "An array of People URL Resources that this starship has been piloted by."
     },
@@ -94,7 +94,7 @@
     "hyperdrive_rating",
     "MGLT",
     "starship_class",
-    "pilots",
+    "people",
     "films",
     "created",
     "edited",

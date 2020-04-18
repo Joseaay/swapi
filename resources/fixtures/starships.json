@@ -1,7 +1,7 @@
 [
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "60",
         "starship_class": "corvette",
         "hyperdrive_rating": "2.0"
@@ -11,7 +11,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "60",
         "starship_class": "Star Destroyer",
         "hyperdrive_rating": "2.0"
@@ -21,7 +21,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "70",
         "starship_class": "landing craft",
         "hyperdrive_rating": "1.0"
@@ -31,7 +31,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "10",
         "starship_class": "Deep Space Mobile Battlestation",
         "hyperdrive_rating": "4.0"
@@ -41,7 +41,7 @@
 },
 {
     "fields": {
-        "pilots": [
+        "people": [
             13,
             14,
             25,
@@ -56,7 +56,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "80",
         "starship_class": "assault starfighter",
         "hyperdrive_rating": "1.0"
@@ -66,7 +66,7 @@
 },
 {
     "fields": {
-        "pilots": [
+        "people": [
             1,
             9,
             18,
@@ -81,7 +81,7 @@
 },
 {
     "fields": {
-        "pilots": [
+        "people": [
             4
         ],
         "MGLT": "105",
@@ -93,7 +93,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "40",
         "starship_class": "Star dreadnought",
         "hyperdrive_rating": "2.0"
@@ -103,7 +103,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "20",
         "starship_class": "Medium transport",
         "hyperdrive_rating": "4.0"
@@ -113,7 +113,7 @@
 },
 {
     "fields": {
-        "pilots": [
+        "people": [
             22
         ],
         "MGLT": "70",
@@ -125,7 +125,7 @@
 },
 {
     "fields": {
-        "pilots": [
+        "people": [
             1,
             13,
             14
@@ -139,7 +139,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "40",
         "starship_class": "Escort ship",
         "hyperdrive_rating": "2.0"
@@ -149,7 +149,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "60",
         "starship_class": "Star Cruiser",
         "hyperdrive_rating": "1.0"
@@ -159,7 +159,7 @@
 },
 {
     "fields": {
-        "pilots": [
+        "people": [
             29
         ],
         "MGLT": "120",
@@ -171,7 +171,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "91",
         "starship_class": "Assault Starfighter",
         "hyperdrive_rating": "2.0"
@@ -181,7 +181,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "unknown",
         "starship_class": "Space cruiser",
         "hyperdrive_rating": "2.0"
@@ -191,7 +191,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "unknown",
         "starship_class": "Droid control ship",
         "hyperdrive_rating": "2.0"
@@ -201,7 +201,7 @@
 },
 {
     "fields": {
-        "pilots": [
+        "people": [
             11,
             35,
             60
@@ -215,7 +215,7 @@
 },
 {
     "fields": {
-        "pilots": [
+        "people": [
             39
         ],
         "MGLT": "unknown",
@@ -227,7 +227,7 @@
 },
 {
     "fields": {
-        "pilots": [
+        "people": [
             44
         ],
         "MGLT": "unknown",
@@ -239,7 +239,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "unknown",
         "starship_class": "Diplomatic barge",
         "hyperdrive_rating": "0.7"
@@ -249,7 +249,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "unknown",
         "starship_class": "freighter",
         "hyperdrive_rating": "unknown"
@@ -259,7 +259,7 @@
 },
 {
     "fields": {
-        "pilots": [
+        "people": [
             10,
             58
         ],
@@ -272,7 +272,7 @@
 },
 {
     "fields": {
-        "pilots": [
+        "people": [
             35
         ],
         "MGLT": "unknown",
@@ -284,7 +284,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "unknown",
         "starship_class": "assault ship",
         "hyperdrive_rating": "0.6"
@@ -294,7 +294,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "unknown",
         "starship_class": "yacht",
         "hyperdrive_rating": "1.5"
@@ -304,7 +304,7 @@
 },
 {
     "fields": {
-        "pilots": [
+        "people": [
             10,
             11
         ],
@@ -317,7 +317,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "unknown",
         "starship_class": "transport",
         "hyperdrive_rating": "1.0"
@@ -327,7 +327,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "unknown",
         "starship_class": "star destroyer",
         "hyperdrive_rating": "1.0"
@@ -337,7 +337,7 @@
 },
 {
     "fields": {
-        "pilots": [
+        "people": [
             10,
             35
         ],
@@ -350,7 +350,7 @@
 },
 {
     "fields": {
-        "pilots": [
+        "people": [
             10,
             11
         ],
@@ -363,7 +363,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "100",
         "starship_class": "starfighter",
         "hyperdrive_rating": "1.0"
@@ -373,7 +373,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "unknown",
         "starship_class": "cruiser",
         "hyperdrive_rating": "1.0"
@@ -383,7 +383,7 @@
 },
 {
     "fields": {
-        "pilots": [
+        "people": [
             10,
             79
         ],
@@ -396,7 +396,7 @@
 },
 {
     "fields": {
-        "pilots": [],
+        "people": [],
         "MGLT": "unknown",
         "starship_class": "starfighter",
         "hyperdrive_rating": "1.0"

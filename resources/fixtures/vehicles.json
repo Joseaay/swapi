@@ -2,7 +2,7 @@
 {
     "fields": {
         "vehicle_class": "wheeled",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 4
@@ -10,7 +10,7 @@
 {
     "fields": {
         "vehicle_class": "repulsorcraft",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 6
@@ -18,7 +18,7 @@
 {
     "fields": {
         "vehicle_class": "repulsorcraft",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 7
@@ -26,7 +26,7 @@
 {
     "fields": {
         "vehicle_class": "starfighter",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 8
@@ -34,7 +34,7 @@
 {
     "fields": {
         "vehicle_class": "airspeeder",
-        "pilots": [
+        "people": [
             1,
             18
         ]
@@ -45,7 +45,7 @@
 {
     "fields": {
         "vehicle_class": "space/planetary bomber",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 16
@@ -53,7 +53,7 @@
 {
     "fields": {
         "vehicle_class": "assault walker",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 18
@@ -61,7 +61,7 @@
 {
     "fields": {
         "vehicle_class": "walker",
-        "pilots": [
+        "people": [
             13
         ]
     },
@@ -71,7 +71,7 @@
 {
     "fields": {
         "vehicle_class": "repulsorcraft",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 20
@@ -79,7 +79,7 @@
 {
     "fields": {
         "vehicle_class": "sail barge",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 24
@@ -87,7 +87,7 @@
 {
     "fields": {
         "vehicle_class": "repulsorcraft cargo skiff",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 25
@@ -95,7 +95,7 @@
 {
     "fields": {
         "vehicle_class": "starfighter",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 26
@@ -103,7 +103,7 @@
 {
     "fields": {
         "vehicle_class": "speeder",
-        "pilots": [
+        "people": [
             1,
             5
         ]
@@ -114,7 +114,7 @@
 {
     "fields": {
         "vehicle_class": "starfighter",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 33
@@ -122,7 +122,7 @@
 {
     "fields": {
         "vehicle_class": "repulsorcraft",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 34
@@ -130,7 +130,7 @@
 {
     "fields": {
         "vehicle_class": "repulsorcraft",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 35
@@ -138,7 +138,7 @@
 {
     "fields": {
         "vehicle_class": "repulsorcraft",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 36
@@ -146,7 +146,7 @@
 {
     "fields": {
         "vehicle_class": "landing craft",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 37
@@ -154,7 +154,7 @@
 {
     "fields": {
         "vehicle_class": "submarine",
-        "pilots": [
+        "people": [
             10,
             32
         ]
@@ -165,7 +165,7 @@
 {
     "fields": {
         "vehicle_class": "speeder",
-        "pilots": [
+        "people": [
             44
         ]
     },
@@ -175,7 +175,7 @@
 {
     "fields": {
         "vehicle_class": "repulsorcraft",
-        "pilots": [
+        "people": [
             11
         ]
     },
@@ -185,7 +185,7 @@
 {
     "fields": {
         "vehicle_class": "airspeeder",
-        "pilots": [
+        "people": [
             70
         ]
     },
@@ -195,7 +195,7 @@
 {
     "fields": {
         "vehicle_class": "airspeeder",
-        "pilots": [
+        "people": [
             11
         ]
     },
@@ -205,7 +205,7 @@
 {
     "fields": {
         "vehicle_class": "gunship",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 50
@@ -213,7 +213,7 @@
 {
     "fields": {
         "vehicle_class": "gunship",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 51
@@ -221,7 +221,7 @@
 {
     "fields": {
         "vehicle_class": "walker",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 53
@@ -229,7 +229,7 @@
 {
     "fields": {
         "vehicle_class": "walker",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 54
@@ -237,7 +237,7 @@
 {
     "fields": {
         "vehicle_class": "speeder",
-        "pilots": [
+        "people": [
             67
         ]
     },
@@ -247,7 +247,7 @@
 {
     "fields": {
         "vehicle_class": "transport",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 56
@@ -255,7 +255,7 @@
 {
     "fields": {
         "vehicle_class": "starfighter",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 57
@@ -263,7 +263,7 @@
 {
     "fields": {
         "vehicle_class": "wheeled walker",
-        "pilots": [
+        "people": [
             79
         ]
     },
@@ -273,7 +273,7 @@
 {
     "fields": {
         "vehicle_class": "fire suppression ship",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 62
@@ -281,7 +281,7 @@
 {
     "fields": {
         "vehicle_class": "droid starfighter",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 67
@@ -289,7 +289,7 @@
 {
     "fields": {
         "vehicle_class": "airspeeder",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 69
@@ -297,7 +297,7 @@
 {
     "fields": {
         "vehicle_class": "air speeder",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 70
@@ -305,7 +305,7 @@
 {
     "fields": {
         "vehicle_class": "wheeled walker",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 71
@@ -313,7 +313,7 @@
 {
     "fields": {
         "vehicle_class": "droid tank",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 72
@@ -321,7 +321,7 @@
 {
     "fields": {
         "vehicle_class": "airspeeder",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 73
@@ -329,7 +329,7 @@
 {
     "fields": {
         "vehicle_class": "walker",
-        "pilots": []
+        "people": []
     },
     "model": "resources.vehicle",
     "pk": 76
